@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👋, I'm Mohit Yadav
 
-<!--
-**yadavmohit11835-sudo/yadavmohit11835-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (MERN)  
+🎓 BSc IT Student  
+🚀 Building Real Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about web development  
+- Love building modern web applications  
+- Currently learning and improving daily  
+
+---
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript  
+- React.js  
+- Node.js, Express.js  
+- MongoDB  
+- Git & GitHub  
+
+---
+
+## 📂 Projects
+- 🔹 Portfolio Website  
+- 🔹 To-Do App  
+- 🔹 Login/Register System  
+
+---
+
+## 🌐 Portfolio
+👉 Live: https://yadavmohit-portfolio.netlify.app  
+👉 Code: https://github.com/yadavmohit11835-sudo
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/yadavmohit11835-sudo  
+- LinkedIn: https://www.linkedin.com/in/mohit-yadav-72246333b  
+
+---
+
+⭐ Thanks for visiting my profile!
